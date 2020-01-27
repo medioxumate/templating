@@ -1,0 +1,12 @@
+{
+  "name": "tokiehn/it328/templating",
+  "authors": [
+  {
+    "name": "Brian Kiehn",
+    "email": "bkiehn@mail.greenriver.edu"
+  }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
